@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.DIV{
+    width: 350px;
+    margin: 110px auto;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 20px;
+    background-color: white;
+    padding-bottom: 30px;
+}
+
+.DIV img{
+    width: 320px;
+    border-radius: 10px;
+}
+
+.DIV h1{
+    font-size: 20px;
+}
+.DIV p{
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
